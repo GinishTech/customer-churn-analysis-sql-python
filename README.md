@@ -5,6 +5,32 @@ End-to-end Customer Churn &amp; Retention Analysis using Python and SQLite. Incl
 Risk Scoring & Segmentation (Risk Analysis & Segmentation)
 Developed a multi-dimensional churn risk scoring model by synthesising subscription tenure, plan type, and support escalation signals across three relational tables (20+ KPIs), segmented the customer base into risk tiers using composite churn scores, exposed a significant lifetime value gap between churned and retained cohorts, and recommended prioritising Premium annual-plan retention over Basic monthly acquisition to maximise long-term revenue yield.
 
+### 2. Time-Series & Categorical Churn Trends
+
+* **Monthly Churn Trend:** Tracks customer cancellations over time to identify seasonal spikes (e.g., peak churn in September 2024).
+
+<img width="800" height="400" alt="Screenshot 2026-07-13 171034" src="https://github.com/user-attachments/assets/5f377f31-1b7e-48be-b286-f52805ee0dad" />
+
+
+* **Churn by Plan Type:** Analyzes customer attrition rates across Basic, Premium, and Standard subscription plans.
+
+<img width="800" height="400" alt="Screenshot 2026-07-13 171044" src="https://github.com/user-attachments/assets/a1b9d7b8-9ba3-450f-9746-4a6ba0e1e2db" />
+
+
+* **Churn by State:** Visualizes geographic churn rates across different states/regions.
+
+<img width="800" height="400" alt="Screenshot 2026-07-13 171121" src="https://github.com/user-attachments/assets/be65e9c9-4722-4b42-9ae1-46eee3cca2fc" />
+
+**Correlation Heatmap:** Highlights key relationships between churn scores, contract types, and churn flags.
+
+<img width="800" height="800" alt="Screenshot 2026-07-13 171146" src="https://github.com/user-attachments/assets/1c9c0751-4fbd-4191-a95c-3b534850cce3" />
+
+
+* **Pairplot Analysis:** Explores multivariate distributions across encoded features.
+
+<img width="900" height="700" alt="Screenshot 2026-07-13 171017" src="https://github.com/user-attachments/assets/d071e043-e02f-42df-8a1e-2ae4462d39d2" />
+
+
 ## 🗄️ Database Schema & Sample Query
 
 ### Table Structure
