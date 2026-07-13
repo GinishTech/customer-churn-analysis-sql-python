@@ -23,26 +23,28 @@ Developed a multi-dimensional churn risk scoring model by synthesising subscript
 
 * **Monthly Churn Trend:** Tracks customer cancellations over time to identify seasonal spikes (e.g., peak churn in September 2024).
 
-<img width="800" height="400" alt="Screenshot 2026-07-13 171034" src="https://github.com/user-attachments/assets/5f377f31-1b7e-48be-b286-f52805ee0dad" />
+<img width="713" height="348" alt="Screenshot 2026-07-13 181541" src="https://github.com/user-attachments/assets/78918e18-ae06-4683-939b-b370b451c9de" />
 
 
 * **Churn by Plan Type:** Analyzes customer attrition rates across Basic, Premium, and Standard subscription plans.
 
-<img width="800" height="400" alt="Screenshot 2026-07-13 171044" src="https://github.com/user-attachments/assets/a1b9d7b8-9ba3-450f-9746-4a6ba0e1e2db" />
+<img width="659" height="379" alt="Screenshot 2026-07-13 181616" src="https://github.com/user-attachments/assets/b87294e0-65c0-4474-aedc-2920e43f9165" />
 
 
 * **Churn by State:** Visualizes geographic churn rates across different states/regions.
 
-<img width="800" height="400" alt="Screenshot 2026-07-13 171121" src="https://github.com/user-attachments/assets/be65e9c9-4722-4b42-9ae1-46eee3cca2fc" />
+<img width="653" height="380" alt="Screenshot 2026-07-13 181704" src="https://github.com/user-attachments/assets/c02fb330-0c05-463f-a9b6-0d71536b15ac" />
 
 **Correlation Heatmap:** Highlights key relationships between churn scores, contract types, and churn flags.
 
-<img width="800" height="800" alt="Screenshot 2026-07-13 171146" src="https://github.com/user-attachments/assets/1c9c0751-4fbd-4191-a95c-3b534850cce3" />
+<img width="582" height="235" alt="Screenshot 2026-07-13 181926" src="https://github.com/user-attachments/assets/6f9300c7-1b3f-4a81-b6d0-4475bbd56c56" />
+
+<img width="575" height="310" alt="Screenshot 2026-07-13 181943" src="https://github.com/user-attachments/assets/49cc4d41-ad4d-4c46-8852-a0a643659741" />
 
 
 * **Pairplot Analysis:** Explores multivariate distributions across encoded features.
 
-<img width="900" height="700" alt="Screenshot 2026-07-13 171017" src="https://github.com/user-attachments/assets/d071e043-e02f-42df-8a1e-2ae4462d39d2" />
+<img width="700" height="700" alt="Screenshot 2026-07-13 171017" src="https://github.com/user-attachments/assets/d071e043-e02f-42df-8a1e-2ae4462d39d2" />
 
 
 ## 🗄️ Database Schema & Sample Query
