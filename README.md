@@ -1,8 +1,9 @@
 ## Customer-churn-analysis-sql-python
 End-to-end Customer Churn &amp; Retention Analysis using Python and SQLite. Includes ETL data pipelines, support metric tracking, feature engineering (churn risk scoring), and revenue-at-risk analytics.
 
-
-
+## Project Summary
+Risk Scoring & Segmentation (Risk Analysis & Segmentation)
+Developed a multi-dimensional churn risk scoring model by synthesising subscription tenure, plan type, and support escalation signals across three relational tables (20+ KPIs), segmented the customer base into risk tiers using composite churn scores, exposed a significant lifetime value gap between churned and retained cohorts, and recommended prioritising Premium annual-plan retention over Basic monthly acquisition to maximise long-term revenue yield.
 
 ## 🗄️ Database Schema & Sample Query
 
