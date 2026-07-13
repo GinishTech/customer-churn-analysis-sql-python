@@ -5,6 +5,20 @@ End-to-end Customer Churn &amp; Retention Analysis using Python and SQLite. Incl
 Risk Scoring & Segmentation (Risk Analysis & Segmentation)
 Developed a multi-dimensional churn risk scoring model by synthesising subscription tenure, plan type, and support escalation signals across three relational tables (20+ KPIs), segmented the customer base into risk tiers using composite churn scores, exposed a significant lifetime value gap between churned and retained cohorts, and recommended prioritising Premium annual-plan retention over Basic monthly acquisition to maximise long-term revenue yield.
 
+## 🛠️ Tech Stack & Dependencies
+
+- **Database:** SQLite (`customer_churn.db`)
+- **Language:** Python 3
+
+### 🐍 Python Libraries Used
+  **Import core data analysis and visualization libraries **
+
+`import numpy as np`  
+`import pandas as pd`  
+`import matplotlib.pyplot as plt`  
+`import seaborn as sns`  
+`import sqlite3`
+
 ### 2. Time-Series & Categorical Churn Trends
 
 * **Monthly Churn Trend:** Tracks customer cancellations over time to identify seasonal spikes (e.g., peak churn in September 2024).
